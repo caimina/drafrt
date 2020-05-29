@@ -1,5 +1,6 @@
 # draft
-practice  
+practice 
+![](https://github.com/caimina/hello-world/blob/master/75574739874192a.jpg)
 # Questions
 * 1.How to edit the format?
 * 2.How to prepare before writing GitHub?
