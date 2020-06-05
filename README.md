@@ -7,5 +7,7 @@ practice
 * 3.what are the skills for writing GitHub?
 * ....  
 # Sheet
+|1| cat | 20KG|
+|2| pig | 50KG|
 
 Headlines
